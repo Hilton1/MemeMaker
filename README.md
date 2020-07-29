@@ -19,6 +19,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Execution example
 
-<img src="./Images/Image1.png" width="500"/>
-<img src="./Images/Image2.png" width="500"/>
-<img src="./Images/Image3.png" width="500"/>
+<img src="./Images/Image1.png" width="auto"/>
+<img src="./Images/Image2.png" width="auto"/>
+<img src="./Images/Image3.png" width="auto"/>
